@@ -1,5 +1,8 @@
 ![Hover](hover_1.png)  ![Hover](hover_2.png)
 ![Hover](hover_3.png)
+![Hover](hover_4.png)
+![Hover](hover_5.png)
+
 # ChatApp
 A blockchain based chat app using truffle and ganach for testnet ->backend and Flutter for frontend.
 
