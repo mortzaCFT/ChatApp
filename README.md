@@ -1,5 +1,5 @@
-![Hover](hover_1.png)
-![Hover](hover_2.png)
+![Hover](hover_1.png)  ![Hover](hover_2.png)
+![Hover](hover_3.png)
 # ChatApp
 A blockchain based chat app using truffle and ganach for testnet ->backend and Flutter for frontend.
 
@@ -21,3 +21,6 @@ For backend Please Contact me;
     |_[ ]  Ready for deploying on Ether public testnet.
     
 ``
+Thank you Asal Design for creating cool design:
+```
+https://dribbble.com/shots/22351367-Mengobrol-Chat-App
